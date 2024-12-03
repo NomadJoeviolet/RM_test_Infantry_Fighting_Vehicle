@@ -1,0 +1,36 @@
+rm_test_infantry_fighting_vehicle_g473_gimbal\stm32g4xx_hal_uart_ex.o: ../Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_uart_ex.c
+rm_test_infantry_fighting_vehicle_g473_gimbal\stm32g4xx_hal_uart_ex.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal.h
+rm_test_infantry_fighting_vehicle_g473_gimbal\stm32g4xx_hal_uart_ex.o: ../Core/Inc/stm32g4xx_hal_conf.h
+rm_test_infantry_fighting_vehicle_g473_gimbal\stm32g4xx_hal_uart_ex.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_rcc.h
+rm_test_infantry_fighting_vehicle_g473_gimbal\stm32g4xx_hal_uart_ex.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_def.h
+rm_test_infantry_fighting_vehicle_g473_gimbal\stm32g4xx_hal_uart_ex.o: ../Drivers/CMSIS/Device/ST/STM32G4xx/Include/stm32g4xx.h
+rm_test_infantry_fighting_vehicle_g473_gimbal\stm32g4xx_hal_uart_ex.o: ../Drivers/CMSIS/Device/ST/STM32G4xx/Include/stm32g473xx.h
+rm_test_infantry_fighting_vehicle_g473_gimbal\stm32g4xx_hal_uart_ex.o: ../Drivers/CMSIS/Include/core_cm4.h
+rm_test_infantry_fighting_vehicle_g473_gimbal\stm32g4xx_hal_uart_ex.o: E:\Robot\Robot Master\ARM\ARMCC\Bin\..\include\stdint.h
+rm_test_infantry_fighting_vehicle_g473_gimbal\stm32g4xx_hal_uart_ex.o: ../Drivers/CMSIS/Include/cmsis_version.h
+rm_test_infantry_fighting_vehicle_g473_gimbal\stm32g4xx_hal_uart_ex.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+rm_test_infantry_fighting_vehicle_g473_gimbal\stm32g4xx_hal_uart_ex.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+rm_test_infantry_fighting_vehicle_g473_gimbal\stm32g4xx_hal_uart_ex.o: ../Drivers/CMSIS/Include/mpu_armv7.h
+rm_test_infantry_fighting_vehicle_g473_gimbal\stm32g4xx_hal_uart_ex.o: ../Drivers/CMSIS/Device/ST/STM32G4xx/Include/system_stm32g4xx.h
+rm_test_infantry_fighting_vehicle_g473_gimbal\stm32g4xx_hal_uart_ex.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal.h
+rm_test_infantry_fighting_vehicle_g473_gimbal\stm32g4xx_hal_uart_ex.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h
+rm_test_infantry_fighting_vehicle_g473_gimbal\stm32g4xx_hal_uart_ex.o: E:\Robot\Robot Master\ARM\ARMCC\Bin\..\include\stddef.h
+rm_test_infantry_fighting_vehicle_g473_gimbal\stm32g4xx_hal_uart_ex.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_rcc_ex.h
+rm_test_infantry_fighting_vehicle_g473_gimbal\stm32g4xx_hal_uart_ex.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_gpio.h
+rm_test_infantry_fighting_vehicle_g473_gimbal\stm32g4xx_hal_uart_ex.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_gpio_ex.h
+rm_test_infantry_fighting_vehicle_g473_gimbal\stm32g4xx_hal_uart_ex.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_dma.h
+rm_test_infantry_fighting_vehicle_g473_gimbal\stm32g4xx_hal_uart_ex.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_dma_ex.h
+rm_test_infantry_fighting_vehicle_g473_gimbal\stm32g4xx_hal_uart_ex.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_cortex.h
+rm_test_infantry_fighting_vehicle_g473_gimbal\stm32g4xx_hal_uart_ex.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_exti.h
+rm_test_infantry_fighting_vehicle_g473_gimbal\stm32g4xx_hal_uart_ex.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_fdcan.h
+rm_test_infantry_fighting_vehicle_g473_gimbal\stm32g4xx_hal_uart_ex.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_flash.h
+rm_test_infantry_fighting_vehicle_g473_gimbal\stm32g4xx_hal_uart_ex.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_flash_ex.h
+rm_test_infantry_fighting_vehicle_g473_gimbal\stm32g4xx_hal_uart_ex.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_flash_ramfunc.h
+rm_test_infantry_fighting_vehicle_g473_gimbal\stm32g4xx_hal_uart_ex.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_pwr.h
+rm_test_infantry_fighting_vehicle_g473_gimbal\stm32g4xx_hal_uart_ex.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_pwr_ex.h
+rm_test_infantry_fighting_vehicle_g473_gimbal\stm32g4xx_hal_uart_ex.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_spi.h
+rm_test_infantry_fighting_vehicle_g473_gimbal\stm32g4xx_hal_uart_ex.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_spi_ex.h
+rm_test_infantry_fighting_vehicle_g473_gimbal\stm32g4xx_hal_uart_ex.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_tim.h
+rm_test_infantry_fighting_vehicle_g473_gimbal\stm32g4xx_hal_uart_ex.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_tim_ex.h
+rm_test_infantry_fighting_vehicle_g473_gimbal\stm32g4xx_hal_uart_ex.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_uart.h
+rm_test_infantry_fighting_vehicle_g473_gimbal\stm32g4xx_hal_uart_ex.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_uart_ex.h
