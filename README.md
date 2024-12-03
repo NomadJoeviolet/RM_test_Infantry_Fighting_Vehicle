@@ -1,0 +1,6 @@
+# 代码说明
+RM_test_Infantry_Fighting_Vehicle_G473为第一版，未分云台板和底盘板
+RM_test_Infantry_Fighting_Vehicle_G473_chasis，底盘板代码
+RM_test_Infantry_Fighting_Vehicle_G473_gimbal，云台板代码
+
+madgwick_algorithm_c，姿态解算用的移植代码
